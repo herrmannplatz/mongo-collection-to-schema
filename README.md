@@ -1,0 +1,1 @@
+# mongo-collection-to-schema
